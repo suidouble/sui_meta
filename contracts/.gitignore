@@ -1,0 +1,28 @@
+# Ignore build output directory
+/build/
+
+# Ignore Move.lock file
+Move.lock
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore compilation cache
+.cache/
+
+# Ignore test output
+/tests/output/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
