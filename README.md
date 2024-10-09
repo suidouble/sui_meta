@@ -6,7 +6,7 @@ The total supply of META is 21,000,000. The algorithm is similar to Bitcoin, wit
 
 ### Mining
 
-- CLI Miner [sui_meta_miner](https://github.com/suidouble/sui_meta_miner) ( works great for mining META )
+- CLI Miner [sui_meta_miner](https://gitlab.com/suidouble/sui_meta) ( works great for mining META )
 - Web Miner [suimine.xyz](https://suimine.xyz/) ( works great for mining FOMO )
 
 ### Swap
